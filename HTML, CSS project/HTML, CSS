@@ -1,0 +1,118 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="./project.css">
+    <style>
+        h1{
+            background-color: red;
+            color: black;
+            font-style: italic;
+            font-family: Arial;
+        }        
+    </style>
+</head>
+<body bgcolor="black">
+    <header>
+        <h1 id="header">APEX LEGENDS-THE NEXT EVOLUTION OF HERO SHOOTER GAMES</h1>
+        <div class="navbar">
+            <nav>
+                <a href="https://www.ea.com/games/apex-legends/about">About us</a>
+                <a href="https://www.ea.com/games/apex-legends/about/characters">Apex legends</a>
+                <a href="https://help.ea.com/in/">Support</a>
+                <a href="https://www.ea.com/games/apex-legends/news">News</a>
+            </nav>
+        </div>
+    </header>
+    <section>
+        <p id="para1">
+        THE LEGENDS<br>
+        Choose from a lineup of outlaws, soldiers, 
+        misfits, and misanthropes, each with their own set of skills. 
+        The Apex Games welcome all comers survive long enough, 
+        and they call you a Legend.<br>
+        BEYOND BATTLE ROYALE<br>
+        Apex Legends is always evolving. Play in classic 60-person Battle Royale matches,
+        3v3 Arenas battles, 
+        and limited-time modes and takeovers!
+    </p>
+</section>
+<section>
+    <table>
+        <tr>
+            <td><div><img src="./image1.jfif" width="500px" height="200px"></div></td>
+            <td><div class="div1">
+                The Frontier War is over. 
+                After decades of conflict between the IMC and the militia founded to fight them, 
+                the region of space known as the Frontier can finally see peace.
+                But liberation can come at a cost: the Frontier worlds were left barren by the war, 
+                and promised aid dwindled to nothing.
+            </div>
+                                                     
+            </td>
+        </tr>
+        <tr>
+            
+            <td><div class ="div2">
+                A remote cluster of planets on the fringes of the Frontier, 
+                the Outlands are untouched by war and teeming with resources and opportunity.
+                 With no way to support themselves, those who remained had no choice but to leave their homes. 
+                The brave relocated to the Outlands.
+            </div>
+
+                <td><div><img src="./image 2.jfif" width="500px" height="200px"></div></td>    
+            </td>
+            
+        </tr>
+        <table>
+        <tr>
+            <td><div><img src="./image 3.jfif" width="500px" height="200px"></div></td>
+            <td><div class="div3">
+                 But life is cheap here, and danger lurks around every corner. 
+                Its pioneers, explorers, and outlaws used to spend their lives locked in an endless power struggle now, 
+                they settle their differences in the Apex Games, 
+                a bloodsport where Legends from all corners of the Frontier compete for money, fame, and glory.
+            </div>
+
+            </td>
+        </tr>
+        </table>
+    </section>
+        <footer>
+            <table width="70%">
+                <tr>
+                    <th>Address</th>
+                    <th>Links</th>
+                    <th>Follow us</th>
+                </tr>
+                <tr>
+                    <td>APEX LEGENDS GAMING STUDIO<br>
+                        New No 9,<br>
+                        Old No 3, Devi Kripa,<br>
+                        Besant Avenue Road, Adyar,<br> 
+                        Besant Nagar, Chennai -600020</td>
+                    <td>
+                        <ul>
+                            <li><a href="https://www.ea.com/games/apex-legends/about">About us</a></li>
+                            <li><a href="https://www.ea.com/games/apex-legends/about/characters">Apex legends</a></li>
+                            <li><a href="https://help.ea.com/in/">Support</a></li>
+                            <li><a href="https://www.ea.com/games/apex-legends/news">News</a></li>
+                        </ul>
+                    </td>
+                    <td>
+                       <img src="./facebook.png" width="20px" height="20px"> 
+                       <a href="https://www.facebook.com/">Facebook</a><br>
+                       <img src="./twitter.png" width="20px" height="20px"> 
+                       <a href="https://twitter.com/i/flow/login?input_flow_data=%7B%22requested_variant%22%3A%22eyJsYW5nIjoiZW4ifQ%3D%3D%22%7D">Twitter</a><br>
+                       <img src="./insta.jfif" width="20px" height="20px">
+                        <a href="https://www.instagram.com/">Instagram</a><br>
+                    </td>
+                </tr>
+            </table>  
+        </footer>
+    
+</body>
+</html>
