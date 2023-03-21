@@ -116,3 +116,92 @@
     
 </body>
 </html>
+
+
+
+
+
+
+
+
+
+
+
+
+#CSS
+header{
+    background-color:red;
+    height: 200px;
+    margin: 50px;
+    border-radius: 10px;
+}
+header h1{
+    border-radius: 50px;
+    margin-top: 20px;
+    text-align: center;
+    font-size: x-large ;
+    color: black;
+}
+.navbar nav{
+    text-align: center; 
+}
+nav a{
+    color: black;
+    text-align: center;
+    padding: 20px;
+    }
+    section p{
+        margin:20px;
+    }
+    table{
+        text-align: center;
+        margin: 20px;
+    }
+    td{
+        margin-left: 10px;
+        margin-right: 10px;
+    }
+    td div{
+        background-color: black;
+        border-radius: 10px;
+    }
+    td div img{
+        padding: 10px;
+    }
+    p{
+        font-style: italic;
+    }
+    #para1{
+        background-color: gray;
+        font-style:oblique;
+        color: black;
+        font-size: x-large;
+    }
+    .div1{
+        background-color: red;
+        height: 200px;
+        font-style: oblique;
+        color: black;
+        font-size: x-large;
+    }
+    .div2{
+        background-color: red;
+        height: 200px;
+        font-style: oblique;
+        color: black;
+        font-size: x-large;
+    }
+    .div3{
+        background-color: red;
+        height: 200px;
+        font-style: oblique;
+        color: black;
+        font-size: x-large;
+    }
+footer{
+    background-color: gray;
+    margin: 20px;
+    padding: 20px;
+    color: aliceblue;
+    border-radius: 10px;
+}
