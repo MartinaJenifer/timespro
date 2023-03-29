@@ -1,0 +1,13 @@
+var stack=[1,2,4];
+var top;
+top=stack.length-1;
+document.write("top is :"+top);
+var num= prompt("Enter the number");
+stack.push(num);
+top=top+1;
+console.log("Value of top :"+top);
+console.log("Topmost element is :"+stack);
+var deleted = stack.pop();
+console.log("Element is popped out:"+deleted);
+top=top-1;
+console.log("Stack after pop is :"+stack);
